@@ -21,7 +21,9 @@ Visualize Your Success:
 
 ## **Benefits:**
 ✅ Reduce customer churn: Proactively identify and address at-risk customers, leading to improved retention rates.
+
 ✅ Enhance customer satisfaction: Gain deeper understanding of customer needs and tailor service experiences accordingly.
+
 ✅ Data-driven decision making: Empower business leaders with actionable insights to make informed decisions about customer engagement and retention strategies.
 ![Customer Risk Analysis](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/17438de8-0003-488f-8c98-5e2e918bd4b7)
 
