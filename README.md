@@ -2,7 +2,7 @@
 
 ## **Proactively prevent customer churn and optimize customer service with interactive dashboards.**
 
-This portfolio project, developed during my internship at PwC, leverages Power BI Desktop and Excel to empower businesses with actionable insights into customer behavior.
+This portfolio project, leverages Power BI Desktop and Excel to empower businesses with actionable insights into customer behavior.
 
 ## **Key Features:**
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
